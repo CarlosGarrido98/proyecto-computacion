@@ -1,0 +1,53 @@
+Tipos de Nube:
+
+1. Nube Pública
+
+La nube pública es un tipo de infraestructura en la que los servicios y recursos (como almacenamiento, servidores y aplicaciones) son ofrecidos por proveedores externos y están disponibles para cualquier usuario a través de internet.
+Ejemplos: Amazon Web Services (AWS), Google Cloud, Microsoft Azure.
+
+Ventajas:
+
+Fácil acceso desde cualquier lugar.
+
+Escalabilidad rápida según la demanda.
+
+Costos reducidos, se paga solo por lo que se usa.
+
+Desventajas:
+
+Menor control sobre la seguridad y los datos.
+
+Dependencia del proveedor.
+
+2. Nube Privada
+
+La nube privada es un entorno de computación exclusivo para una organización. Los recursos son gestionados internamente o por un proveedor, pero no se comparten con otros usuarios.
+Ejemplos: Servidores internos de una empresa, OpenStack privado.
+
+Ventajas:
+
+Mayor control sobre la seguridad y privacidad.
+
+Personalización según las necesidades de la empresa.
+
+Desventajas:
+
+Mayor costo de mantenimiento.
+
+Escalabilidad más limitada que la nube pública.
+
+3. Nube Híbrida
+
+La nube híbrida combina la nube pública y la privada, permitiendo que una organización use ambos entornos según sus necesidades. Por ejemplo, datos sensibles pueden mantenerse en la nube privada, mientras que aplicaciones de uso general se ejecutan en la nube pública.
+
+Ventajas:
+
+Flexibilidad para usar recursos según necesidades.
+
+Mejor balance entre seguridad y costo.
+
+Desventajas:
+
+Requiere una buena gestión para integrar ambos entornos.
+
+Puede ser más compleja de implementar.
